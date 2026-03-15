@@ -1,1 +1,1 @@
-export const ROOT_PATH = "/game"
+export const ROOT_PATH = "./game"
