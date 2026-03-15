@@ -1,5 +1,8 @@
-# js-gamekit
+<p align="center">
+  <img src="./assets/img/banner.png" alt="JSGK thumbnail">
+</p>
 
+## About
 A lightweight JavaScript game framework for building 2D games with HTML5 Canvas.
 
 ## Features
